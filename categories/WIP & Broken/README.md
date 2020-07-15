@@ -1,0 +1,2 @@
+# This folder is just for commands that are either a work in progress or are just broken.
+This is just an excuse for me to put all my non working commands here and ask ~~satty~~ someone to fix them for me.
