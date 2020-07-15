@@ -2,4 +2,5 @@
 info/emoji.cc.lua
 
 fun/hug.cc.lua
-.gitignore
+.history
+.vscode
